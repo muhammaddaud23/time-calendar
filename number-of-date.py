@@ -1,7 +1,7 @@
 """
 This program converts date to number.
 For example, 4 February is the 35th day.
-Here, i use Gregorian Calendar and the definition of leap year follows
+Here, i use Gregorian Calendar and the definition of leap year follows.
 """
 
 #Standard input for date
